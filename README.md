@@ -1,2 +1,2 @@
-# intro-microcontrollers-lab-006-enclosure
-Introduction to Microcontrollers lab 6 enclosure
+# intro-microcontrollers-lab-take-home-enclosure
+Introduction to Microcontrollers take home lab enclosure
